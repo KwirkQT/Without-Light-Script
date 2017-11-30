@@ -1,0 +1,27 @@
+Text1_1 "Are you afraid of the dark?"
+
+Text1_2a "Nobody seems to understand the darkness." 
+Text1_2b "They don’t understand the edges of the map..."
+Text1_2c "The unknown that both inspires and scares us."
+Text1_2d "I understand the contours of this room."
+Text1_2e "There is nothing surprising about it and that’s how I like it.”
+
+Text1_3 "I am alone and this is best for me. It’s easier. Safer"
+
+#Select picture1 (family): Text1_familyA "Blood is thicker than water..."
+Text1_familyB "...or so they say."
+Text1_familyC "I see my family more than almost anyone else."
+Text1_familyD "I wonder if they see me too? Sometimes I am not sure.”
+
+#Select picture2 (friends): Text1_friendsA "I miss the way we were."
+Text1_friendsB "Sometimes I even miss the way I used to be.”
+
+#Select picture3 (beach): Text1_beachA "I remember the day we went to the beach."
+Text1_beachB "That was a fun day. I was able to focus back then and enjoy myself."
+Text1_beachC "I felt the sand beneath my feet and watched it take shape around my toes."
+Text1_beachD "It was coarse, but inviting."
+Text1_beachE "There was no worry that day. No shadows or hidden fears."
+Text1_beachF "The light of the sun burned so brightly that day."
+Text1_beachG "I wish I could live that day forever."
+
+#Knock at door: Parent1: Text1_parent "I made food."

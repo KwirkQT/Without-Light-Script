@@ -1,0 +1,52 @@
+Phone Rings
+#Answer Phone Call from friend: Next scene
+#Decline Phone Call from Friend: Start Over
+
+Answer Phone
+
+Phone: Text3_1a "Are you sure?"
+	#Yes: Next
+	#No: Start Over
+  
+Phone: Text3_1b "Couldn’t you just text instead?"
+	#Yes: Start Over
+	#No: Next
+  
+Phone: Text3_1c "ARE YOU REALLY SURE?"
+	#Yes: Next
+	#No: Start Over
+  
+Phone: Text3_1d "LAST CHANCE, ALEX! ARE YOU ABSOLUTELY CERTAIN YOU HAVE TO ANSWER THIS PHONE CALL?!"
+	#Yes: Next Scene (Light goes up)
+	#No: Start Over
+
+Phone Call with Friend
+
+Friend: Text3_2a "Hey Alex, wanna go to that Violent Highlighters concert with me?"
+Alex: Text3_2b "I don’t know."
+Friend: Text3_2c "You should go. It’ll be fun, and I know you’ll love that band."
+Alex: Text3_2d "I might be busy."
+Friend: Text3_2e "C’mon! Kyle and Angie are going too."
+Alex: Text3_2f "Kyle doesn’t like me. Angie thinks I’m weird."
+Friend: Text3_2g "No they don’t. It was Kyle’s idea to invite you."
+Alex: Text3_2h "And Angie?
+Friend: Text3_2i "Angie said that’d be cool because she wants to get to know you better."
+Alex: Text3_2j "I didn’t think they’d want to hang out with me."
+Text3_2k "They always ignore me at lunch when we’re at school."
+Friend: Text3_2l "Because you sit alone..."
+Text3_2m "...and when anyone sits at the table with you, you leave."
+Alex: Text3_2n "I like to eat alone."
+Friend: Text3_2o "Why?"
+Alex: Text3_2p "People judge the way I chew my food."
+Friend: Text3_2q "Nobody’s judging you. We want you to come with us. And it’s Violent Highlighters."
+
+#Agree To Go To Concert: Next
+#Decline: Start Over
+
+Alex: Text3_3a "What’s their sound?"
+Friend: Text3_3b "Think Benjamin Franklin’s Belly Rubs meets Crypt Orchid Monkey."
+Alex: Text3_3c "Okay, I will go with you."
+Friend: Text3_3d "Awesome! We’re going to have a blast!"
+Alex: Text3_3e "I just have to ask my parents for ticket money..."
+Text3_3f "...but honestly, they’ll probably be so excited to get me out of the house..."
+Text3_3g "...it won’t be an issue." (Light goes up)

@@ -1,0 +1,64 @@
+(After Concert Scene) -- Bedroom
+
+Text5_1a "What a long adventure this has been so far."
+Text5_1b "I remember having fun..."
+Text5_1c "...but I don’t know whether or not I can do it again."
+Text5_1d "I could stay in my room forever and be as happy as a clam."
+Text5_1e "Ha! "Happy as a Clam" was my favorite song Violent Highlighters sang."
+Text5_1f "So dark and depressing and homey."
+Text5_1g "I guess I could get a bite to eat while I recharge my batteries, so to speak."
+
+#Enter Outro Phone Calls - Kitchen/ Living Room
+
+Outro Phone Calls -- Kitchen/ Living Room
+
+#Answer phone: (Friend calling scene).  
+#Decline phone: Start Over
+
+Friend Calling Scene
+
+Friend: Text5_2a "Thanks for going with us to the concert."
+Text5_2b "We all had a great time with you."
+Alex: Text5_2c "It was terrifying most of the time. Some was fun, though."
+Friend: Text5_2d "That’s why I’m calling."
+Text5_2e "I couldn’t help but notice you were fidgety and nervous."
+Text5_2f "Still, you actually went out with us in public..."
+Text5_2g "...even rode the bus!"
+Alex: Text5_2h "Yeah, that was the scariest part. Well, that and the bathroom."
+Friend: Text5_2i "You used a public restroom? Wow, even I can’t do that!"
+Alex: Text5_2j "I did. It took a lot of coaxing, but I did."
+Text5_2k "Thankfully all the noise blocked the scary quietness and other people entering and exiting."
+Text5_2l "I know it’s an irrational fear..."
+Text5_2m "I just really had to go after drinking so much because my throat was dry."
+Friend: Text5_2n "It sounds like you are making progress with your social anxiety."
+Text5_2o "Remember last year when mine was so bad I didn’t go to school for a month?"
+Alex: Text5_2p "Yes, I almost didn’t come to school either after you weren’t there the third day."
+Text5_2q "I was afraid something bad happened."
+Friend: Text5_2r "Something bad did happen. My anxiety got so bad I couldn’t function."
+Text5_2s "The thought of leaving my room terrified me."
+Alex: Text5_2t "What changed? How did you work through it?"
+Friend: Text5_2u "Honestly, my parents made me see a therapist."
+Alex: Text5_2w "Oh no! I could never do that!"
+Text5_2x "Telling a therapist all my issues and have them tell me what’s wrong..."
+Text5_2y "...and that I’m broken and that they’ll “fix” me if the price is right? Nope."
+Friend: Text5_2z "That is exactly how I felt. But you know what?"
+Text5_2zz "After a few sessions I learned to trust my therapist, and that they really did want to help."
+Alex: Text5_2zzz "That’s scary."
+Friend: Text5_2zzzz "I’m not going to lie, it is."
+Text5_2zzzzz "Still, I think you should call one."
+Text5_2zzzzzz "I can give you the information for mine. They really helped me out."
+Text5_2zzzzzzz "I mean, I still get some social anxieties, and that may never go away..."
+Text5_2zzzzzzzz "...but at least it isn’t as debilitating as it used to be."
+Alex: Text5_2zzzzzzzzz "I’ll take their information, but can’t make any promises."
+Friend: Text5_2zzzzzzzzzz "That’s a start."
+
+#Make phone call (Call therapist).
+#Do not make phone call: Start Over
+
+Conversation on Phone w/ Therapist
+
+Initial phone call with hesitation, weary of conversation
+
+Therapist: Text_Therapist "Thank you for calling me. Let’s set up an appointment to meet."
+
+END

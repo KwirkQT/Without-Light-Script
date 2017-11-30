@@ -1,0 +1,30 @@
+Text2_1a "I know my parents love me, but I usually feel like I burden them."
+Text2_1b "It’s not that I don’t want to talk with them..."
+Text2_1c "...they just don’t understand me."
+Text2_1d "It’s okay, I don’t understand them either..."
+Text2_1e "...especially when they fight."
+
+#Interact with parents: Next Scene	
+#Ignore parents: start over
+
+Interact with Parents
+
+Alex: Text2_2a "Hey."
+Parent 1: Text2_2b "Glad you came out of your room today. Grab a plate to eat."
+Alex: Text2_2c "Yeah."
+Parent 1: Text2_2d "I made your favorite."
+Alex: Text2_2e "My favorite is meatloaf with a side of loneliness."
+Parent 1: Text2_2f "I understand."
+Alex: Text2_2g "Where’s Mom?"
+Parent 1: Text2_2h "Hasn’t been able to leave our bedroom today."
+Text2_2i "I was hoping making a meal would help, but it didn’t."
+Alex: Text2_2j "It worked for me, but only because I’m really hungry."
+
+#Interact with [Parent 2]’s plate of food at the table: Next Scene
+#Ignore the fact that [Parent 2] is not eating with you: Start Over
+
+Interact with [Parent 2]’s Plate
+
+Alex: Text2_2k "You gonna finish that?"
+[Parent 2]’s Plate: Text2_2l "__"
+Alex: Text2_2m "Awesome, I’ll eat it for you." (Light goes up)

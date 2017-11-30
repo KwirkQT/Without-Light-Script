@@ -1,0 +1,70 @@
+(In concert surrounded by people) 
+
+Text4_1a "This band is interesting. Like nothing I’ve heard before."
+Text4_1b "Everyone is focused on the stage."
+Text4_1c "I blend in like a drop of water in a pool."
+Text4_1d "I can handle this. I might be starting to enjoy myself."  
+Text4_1e "My friend found Angie and Kyle and is dancing with them."
+Text4_1f "I don’t want to embarrass myself..."
+Text4_1g "...but I may be able to muster up the courage to bust a move."
+Text4_1h "I need to get some nervousness out."
+
+#Get energy drink: (energy drink scene)
+#Go to bathroom: (bathroom scene)
+
+(Energy drink scene) 
+
+Text4_2a “Woah! I can take on the world!"
+Text4_2b "I’m walking towards my friends with a little hop in my step..."
+Text4_2c "...my heart pumping from the caffeine..."
+Text4_2d "...feeling warm and confident."
+Text4_2e "I thought my friends were in this direction?"
+Text4_2f "...but I don’t see them."
+Text4_2g "Oh gawd, that drink is making my heart jump!"
+Text4_2h "I’ve got these hot pings of panic pulsating in my head.”
+
+(Crowd turns into monsters) 
+
+Text4_3a "Come on, keep it together..."
+Text4_3b "Where are my friends?"
+Text4_3c "I can feel my heart pounding in my entire body..."
+Text4_3d "...my blood feels hot, I’m feeling nauseous, my throat is dry, and I my neck is twitching."
+Text4_3e "I wonder if my friends left. Maybe they ditched me."
+Text4_3f "I swear they were right here."
+Text4_3g "I don’t recognize anyone, and I’m sure these people are annoyed..."
+Text4_3h "...by my stupid self interrupting their experience shuffling through the crowd."
+Text4_3i "I’ve been set up again. Is this a test?"
+Text4_3j "This is turning into a nightmare!  Please don’t be real."
+Text4_3k "I can only see swirls of monsters in the crowd..."
+Text4_3l "...it’s too dark to see and too loud to hear anything real!"
+Text4_3m "I need to go home."
+
+#Go home
+
+Going to Bathroom
+
+(Bathroom scene) 
+This is where Alex goes to the bathroom.  
+Text4_4a "Can’t go."
+
+#Try again: Text4_4b "Still can’t go."
+#Try again: Text4_4c "Still can’t go."
+#Try again: Text4_4d "Ah, much better."
+Text4_4e "I'm glad I didn't pee my pants in public..."
+Text4_4f "...again." (light goes up, end of concert scene)
+
+#I am too nervous. (Crowd turns into monsters)
+
+(End of concert scene) 
+
+Text4_5a "This is not so bad after all."
+Text4_5b "In fact, this reminds me of the beach..." 
+Text4_5c "...the people, the air, what I'm guessing is happiness."
+Text4_5d "Life outside my house."
+Text4_5e "Why was I so worked up about this?"
+Text4_5f "Life is good after all."
+Text4_5g "Other people may not be as intimidating as I think..."
+Text4_5h "...but they could just be pretending..."
+
+#Go home (After Concert Scene). 
+
